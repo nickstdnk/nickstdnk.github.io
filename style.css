@@ -12,7 +12,6 @@ a {
 .soundcloud a,
 .soundcloud:before,
 .soundcloud {
-    color: #f50;
     background: #f50;
 }
 
@@ -58,6 +57,12 @@ a {
     color: #333333;
 }
 
+.btc a,
+.btc:before,
+.btc {
+    background: #f7931a;
+    
+}
 
 
 ul#buttons {
@@ -75,6 +80,7 @@ ul#buttons {
 
 ul#buttons:before {
     content: "this.is.www";
+    text-decoration: underline;
     font-size: 3em;
     font-family: Arial;
     font-weight: 300;
