@@ -61,9 +61,35 @@ a {
 .btc:before,
 .btc {
     background: #f7931a;
-    
 }
 
+.whatsapp a,
+.whatsapp:before,
+.whatsapp {
+	background: #01e675;
+	color: #01e675;
+}
+
+.twitch a,
+.twitch:before,
+.twitch	{
+	background:	#9147ff;
+	color: #9147ff;
+}
+
+.youtube a,
+.youtube:before,
+.youtube {
+	background: #f00;
+	color: #f00;
+}
+
+.linkedin a,
+.linkedin:before,
+.linkedin {
+	background: #0077b5;
+	color: #0077b5;
+}
 
 ul#buttons {
     padding: 0;
