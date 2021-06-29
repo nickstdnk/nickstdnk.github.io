@@ -105,7 +105,7 @@ ul#buttons {
 }
 
 ul#buttons:before {
-    content: "this.is.www";
+    content: "Nikolay Stadnik";
     text-decoration: underline;
     font-size: 3em;
     font-family: Arial;
